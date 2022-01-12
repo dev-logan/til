@@ -1,0 +1,8 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+앞으로 항해99 프로그램을 하면서 작성할 코드들을 git으로 버전 관리하고 기록으로써 남기고 싶다.
+
+2. 1주차 주요 개념 키워드 적어보기
+github과 Sourcetree
+commit하여 버전 관리
+원격 repo를 활용하여 pull-commit-push
+원격 repo에서 작업 중인 project는 clone으로 가져온다
